@@ -1,18 +1,3 @@
-Please join my telegram: @xnode52
-or gmail: ad.hjb.gidshd@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
 const DungeonsAndDragons = artifacts.require('DungeonsAndDragonsCharacter')
 const fs = require('fs')
 
